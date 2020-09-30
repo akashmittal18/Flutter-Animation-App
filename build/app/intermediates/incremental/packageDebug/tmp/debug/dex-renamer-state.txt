@@ -1,0 +1,4 @@
+#Wed Sep 30 21:35:56 IST 2020
+base.0=C\:\\Users\\akash\\Downloads\\Compressed\\project\\flutter_animation_example-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
