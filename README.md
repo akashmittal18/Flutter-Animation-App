@@ -1,4 +1,4 @@
-# example_animations
+# Flutter Animation App
 
 A new Flutter project.
 
